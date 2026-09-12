@@ -27,8 +27,8 @@
 
 ### 📊 GitHub Stats
 
-![Brishti's GitHub stats](https://github-readme-stats.vercel.app/api?username=brishtikundu&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brishtikundu&layout=compact)
+![Brishti's GitHub stats](https://github-readme-stats-eight-gules.vercel.app/api?username=brishtikundu&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats-eight-gules.vercel.app/api/top-langs/?username=brishtikundu&layout=compact)
 
 ---
 
