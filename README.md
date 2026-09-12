@@ -25,13 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Brishti's GitHub stats](https://github-readme-stats-eight-gules.vercel.app/api?username=brishtikundu&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats-eight-gules.vercel.app/api/top-langs/?username=brishtikundu&layout=compact)
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brishti-kundu-103928290/)
