@@ -18,6 +18,7 @@ Building reliable, cloud-enabled infrastructure and strengthening my DevOps and 
 ## Core Skills
 
 **Languages**
+
 `Java` `Python` `C` `JavaScript` `HTML` `CSS`
 
 **AWS & Cloud**
@@ -51,16 +52,6 @@ Building reliable, cloud-enabled infrastructure and strengthening my DevOps and 
 | **DevOpsGPT Phoenix** | AI-based DevOps system for infrastructure monitoring and automated recovery | AWS · Automation · Cloud Monitoring | [Repo](https://github.com/brishtikundu/DevOpsGPT_Phoenix) |
 | **FoundIt** | Cloud-based lost & found platform with an AI-powered chatbot for item matching and owner notifications | Cloud · AI Chatbot · Notifications | [GitHub](https://github.com/brishtikundu) |
 | **AgentK** | Intelligent assistant with integrated AI features for query handling and task automation | AI Assistant · Automation | [GitHub](https://github.com/brishtikundu) |
-
----
-
-## GitHub Stats
-
-![Brishti's GitHub stats](https://github-readme-stats-eight-gules.vercel.app/api?username=brishtikundu&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats-eight-gules.vercel.app/api/top-langs/?username=brishtikundu&layout=compact)
-![Streak](https://streak-stats.demolab.com?user=brishtikundu&theme=default)
-
-![Profile Views](https://komarev.com/ghpvc/?username=brishtikundu&color=2C6E91&style=flat)
 
 ---
 
