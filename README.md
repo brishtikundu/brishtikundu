@@ -18,7 +18,6 @@ Building reliable, cloud-enabled infrastructure and strengthening my DevOps and 
 ## Core Skills
 
 **Languages**
-
 `Java` `Python` `C` `JavaScript` `HTML` `CSS`
 
 **AWS & Cloud**
