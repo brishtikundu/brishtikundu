@@ -49,7 +49,7 @@ Building reliable, cloud-enabled infrastructure and strengthening my DevOps and 
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | **DevOpsGPT Phoenix** | AI-based DevOps system for infrastructure monitoring and automated recovery | AWS · Automation · Cloud Monitoring | [Repo](https://github.com/brishtikundu/DevOpsGPT_Phoenix) |
-| **FoundIt** | Cloud-based lost & found platform with an AI-powered chatbot for item matching and owner notifications | Cloud · AI Chatbot · Notifications | [GitHub](https://github.com/brishtikundu) |
+| **FoundIt** | Cloud-based lost & found platform with an AI-powered chatbot for item matching and owner notifications | Cloud · AI Chatbot · Notifications | [GitHub](https://github.com/brishtikundu/FoundIt) |
 | **AgentK** | Intelligent assistant with integrated AI features for query handling and task automation | AI Assistant · Automation | [Repo](https://github.com/brishtikundu/AgentK) |
 
 ---
