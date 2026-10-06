@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13dce9,100:5b8cff&height=190&section=header&text=Brishti%20Kundu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AWS%20%26%20DevOps%20%7C%20Final-Year%20B.Tech%20CSE%20Student&descSize=18&descAlignY=60" alt="Brishti Kundu" />
+<img src="banner.svg" alt="Brishti Kundu" width="100%" />
 
 ### Building reliable, cloud-enabled infrastructure and strengthening my DevOps and DSA skills.
 
-<a href="https://brishtikundu.github.io/Brishti-portfolio/"><img src="https://img.shields.io/badge/🌐%20Portfolio-13DCE9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://brishtikundu.github.io/Brishti-portfolio/"><img src="https://img.shields.io/badge/Portfolio-13DCE9?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/brishti-kundu-103928290/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
 <a href="mailto:kundu.brishtig@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/brishtikundu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -115,6 +115,5 @@ Explore my complete portfolio, including my skills, experience, certifications, 
 
 ⭐️ From [brishtikundu](https://github.com/brishtikundu)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8cff,100:13dce9&height=90&section=footer" alt="" />
 
 </div>
