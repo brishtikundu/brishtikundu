@@ -1,7 +1,6 @@
 <div align="center">
 
-# Brishti Kundu
-## AWS & DevOps | Final-Year B.Tech CSE Student
+<img src="banner.svg" alt="Brishti Kundu" width="100%" />
 
 ### Building reliable, cloud-enabled infrastructure and strengthening my DevOps and DSA skills.
 
