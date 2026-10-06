@@ -3,7 +3,7 @@
 
 Building reliable, cloud-enabled infrastructure and strengthening my DevOps and DSA skills.
 
-[LinkedIn](https://www.linkedin.com/in/brishti-kundu-103928290/) · [Email](mailto:kundu.brishtig@gmail.com) · [GitHub](https://github.com/brishtikundu)
+[🌐 Portfolio](https://brishtikundu.github.io/Brishti-portfolio/) · [LinkedIn](https://www.linkedin.com/in/brishti-kundu-103928290/) · [Email](mailto:kundu.brishtig@gmail.com) · [GitHub](https://github.com/brishtikundu)
 
 ---
 
@@ -38,8 +38,8 @@ Building reliable, cloud-enabled infrastructure and strengthening my DevOps and 
 ---
 
 ## Highlights
-🎓 B.Tech in Computer Science & Engineering (Final Year) — CGPA 8.63/10.0
-🏅 AWS Certified Developer – Associate
+🎓 B.Tech in Computer Science & Engineering (Final Year) — CGPA 8.63/10.0  
+🏅 AWS Certified Developer – Associate  
 ☁️ AWS Foundation Certificate (AWS Academy) · Red Hat for AWS Foundation · Google Cloud Practitioner
 
 ---
@@ -51,6 +51,14 @@ Building reliable, cloud-enabled infrastructure and strengthening my DevOps and 
 | **DevOpsGPT Phoenix** | AI-based DevOps system for infrastructure monitoring and automated recovery | AWS · Automation · Cloud Monitoring | [Repo](https://github.com/brishtikundu/DevOpsGPT_Phoenix) |
 | **FoundIt** | Cloud-based lost & found platform with an AI-powered chatbot for item matching and owner notifications | Cloud · AI Chatbot · Notifications | [Repo](https://github.com/brishtikundu/FoundIt) |
 | **AgentK** | Intelligent assistant with integrated AI features for query handling and task automation | AI Assistant · Automation | [Repo](https://github.com/brishtikundu/AgentK) |
+
+---
+
+## 🌐 Portfolio
+
+Explore my complete portfolio, including my skills, experience, certifications, projects, and resume:
+
+**[Visit My Portfolio →](https://brishtikundu.github.io/Brishti-portfolio/)**
 
 ---
 
