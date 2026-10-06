@@ -115,5 +115,6 @@ Explore my complete portfolio, including my skills, experience, certifications, 
 
 ⭐️ From [brishtikundu](https://github.com/brishtikundu)
 
+<img src="footer.svg" alt="" width="100%" />
 
 </div>
