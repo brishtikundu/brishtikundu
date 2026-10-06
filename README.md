@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="banner.svg" alt="Brishti Kundu" width="100%" />
+# Brishti Kundu
+## AWS & DevOps | Final-Year B.Tech CSE Student
 
 ### Building reliable, cloud-enabled infrastructure and strengthening my DevOps and DSA skills.
 
@@ -115,6 +116,6 @@ Explore my complete portfolio, including my skills, experience, certifications, 
 
 ⭐️ From [brishtikundu](https://github.com/brishtikundu)
 
-<img src="footer.svg" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b8cff,100:13dce9&height=90&section=footer" alt="" width="100%" />
 
 </div>
