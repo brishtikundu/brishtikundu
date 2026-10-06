@@ -88,7 +88,6 @@
 | ☁️ **Other certificates** | AWS Foundation Certificate (AWS Academy) · Red Hat for AWS Foundation · Google Cloud Practitioner |
 
 ---
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack | Link |
@@ -96,6 +95,7 @@
 | **DevOpsGPT Phoenix** | AI-based DevOps system for infrastructure monitoring and automated recovery | AWS · Automation · Cloud Monitoring | [Repo](https://github.com/brishtikundu/DevOpsGPT_Phoenix) |
 | **FoundIt** | Cloud-based lost & found platform with an AI-powered chatbot for item matching and owner notifications | Cloud · AI Chatbot · Notifications | [Repo](https://github.com/brishtikundu/FoundIt) |
 | **AgentK** | Intelligent assistant with integrated AI features for query handling and task automation | AI Assistant · Automation | [Repo](https://github.com/brishtikundu/AgentK) |
+| **RAG System** | Chat with your PDF documents using a RAG agent that retrieves relevant chunks and answers questions with memory | LangChain · LangGraph · Streamlit · Groq · Google Embeddings | [Repo](https://github.com/brishtikundu/rag-system) |
 
 ---
 
